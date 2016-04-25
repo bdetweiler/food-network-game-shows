@@ -8,3 +8,7 @@ I will gather data on this by watching Seasons 1 - 4 of Cutthroat Kitchen, which
 47 episodes. 
 
 Later, I may come back to Chopped.
+
+# Findings
+
+After inspecting Season 1 of Cutthroat Kitchen data, there really isn't much to see. It's more random than I had hoped. Check out the iPython Notebook for more info. 
